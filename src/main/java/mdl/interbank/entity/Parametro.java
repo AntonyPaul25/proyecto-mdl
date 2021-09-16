@@ -20,8 +20,12 @@ public class Parametro {
 	@JsonIgnore
 	private Long id;
 
+	@JsonIgnore
 	@Column(name = "orden", insertable = false, updatable = false)
 	private Long orden;
+
+	@Column(name = "codigo", insertable = false, updatable = false)
+	private String codigo;
 
 	@JsonIgnore
 	@Column(name = "agrupador", insertable = false, updatable = false)
@@ -52,6 +56,14 @@ public class Parametro {
 
 	public void setId(Long id) {
 		this.id = id;
+	}
+
+	public String getCodigo() {
+		return codigo;
+	}
+
+	public void setCodigo(String codigo) {
+		this.codigo = codigo;
 	}
 
 	public Long getOrden() {

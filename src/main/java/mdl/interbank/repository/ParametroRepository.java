@@ -10,6 +10,6 @@ import mdl.interbank.entity.Parametro;
 @Repository
 public interface ParametroRepository extends JpaRepository<Parametro, Long> {
 
-	public List<Parametro> findByAgrupador(String agrupador);
+	public List<Parametro> findByAgrupadorAndEstadoOrderByOrden(String agrupador, boolean estado);
 
 }

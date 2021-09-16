@@ -21,7 +21,8 @@ public class ParametroServiceImpl extends CommonServiceImpl<Parametro, Parametro
 	@Override
 	@Transactional(readOnly = true)
 	public List<Parametro> findEstadosPropuestas() {
-		return repository.findByAgrupador(Constants.Parametros.AGRUPADOR_EST_PROP);
+		return repository.findByAgrupadorAndEstadoOrderByOrden(Constants.Parametros.AGRUPADOR_EST_PROP,
+				Constants.Estado.ACTIVO);
 	}
 
 }

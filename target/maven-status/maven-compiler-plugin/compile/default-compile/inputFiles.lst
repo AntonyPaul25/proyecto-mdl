@@ -4,6 +4,9 @@ C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Micr
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\entity\Rating.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\feignclient\RtgFeignClient.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\service\EstadoFInancieroService.java
+C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\controller\ParametroController.java
+C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\service\UsuarioServiceImpl.java
+C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\repository\UsuarioRepository.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\entity\ResponseCefCabecera.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\repository\RatingRepository.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\controller\CefController.java
@@ -16,6 +19,9 @@ C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Micr
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\service\RatingService.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\controller\GacController.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\repository\ClienteRepository.java
+C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\controller\UsuarioController.java
+C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\entity\Usuario.java
+C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\service\ParametroServiceImpl.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\controller\RtgController.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\repository\LogMdDLRepository.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\service\ClienteService.java
@@ -23,9 +29,14 @@ C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Micr
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\entity\ResponseGacCabecera.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\service\ClienteServiceImpl.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\repository\EstadoFinancieroRepository.java
+C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\utils\Constants.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\service\LogMDLServiceImpl.java
+C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\service\ParametroService.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\service\RatingServiceImpl.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\MdlInterbankApplication.java
+C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\service\UsuarioService.java
+C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\repository\ParametroRepository.java
+C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\entity\Parametro.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\service\GarantiaServiceImpl.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\repository\GarantiaRepository.java
 C:\Users\Boris\Documents\proyectos_repositorios\HenryMiraMira\CustommerRisk\Microservicios\mdl-interbank\src\main\java\mdl\interbank\service\LogMDLService.java
